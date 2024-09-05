@@ -61,7 +61,7 @@ Install the required Python packages by running pip3 install -r requirements.txt
 		  =======================================================================================
 					            D E E P     H L R                                    
 		  =======================================================================================
-					           author: Edgar Medina                                  
+					           author: ISHTASRAF                               
 		  =======================================================================================
 
 		  usage: Deep-HLR.py [-h] phone
@@ -77,6 +77,6 @@ Install the required Python packages by running pip3 install -r requirements.txt
 
 
 ## License
-Author: Edgar Medina
+Author: ISHTARAF
 ---------------------------------------------
 This script is licensed under the MIT License.
